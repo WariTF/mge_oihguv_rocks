@@ -1,0 +1,3 @@
+overwrite addons/sourcemod/configs/mgemod_spawns.cfg with the modified version that is provided
+
+If you have a modififed version of mgemod_spawns.cfg that you don't want to replace, copy the last map from the provided file into your version of the file.
